@@ -4537,6 +4537,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5424883402738929610, guid: bbc00e7cfcda8cd4b9580159c5e77ecf, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424883402738929610, guid: bbc00e7cfcda8cd4b9580159c5e77ecf, type: 3}
+      propertyPath: m_ProvidesContacts
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8971895519250024059, guid: bbc00e7cfcda8cd4b9580159c5e77ecf, type: 3}
       propertyPath: m_Name
       value: building-train-station
